@@ -1,0 +1,7 @@
+C:\Users\sjain\source\repos\WindowsServiceQ1-19\WindowsServiceQ1-19\obj\Debug\WindowsServiceQ1-19.csprojAssemblyReference.cache
+C:\Users\sjain\source\repos\WindowsServiceQ1-19\WindowsServiceQ1-19\obj\Debug\WindowsServiceQ1-19.csproj.CoreCompileInputs.cache
+C:\Users\sjain\source\repos\WindowsServiceQ1-19\WindowsServiceQ1-19\bin\Debug\WindowsServiceQ1-19.exe.config
+C:\Users\sjain\source\repos\WindowsServiceQ1-19\WindowsServiceQ1-19\bin\Debug\WindowsServiceQ1-19.exe
+C:\Users\sjain\source\repos\WindowsServiceQ1-19\WindowsServiceQ1-19\bin\Debug\WindowsServiceQ1-19.pdb
+C:\Users\sjain\source\repos\WindowsServiceQ1-19\WindowsServiceQ1-19\obj\Debug\WindowsServiceQ1-19.exe
+C:\Users\sjain\source\repos\WindowsServiceQ1-19\WindowsServiceQ1-19\obj\Debug\WindowsServiceQ1-19.pdb
